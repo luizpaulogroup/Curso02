@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #141414;
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.top{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.top .logo-netflix{
+    width: 100px;
+}
+.content{
+    margin: auto;
+    margin-top: 100px;
+    max-width: 720px;
+    height: 100%;
+    text-align: center;
+}
+.content h1{
+    color: #FFF;
+    font-size: 45px;
+}
+.list-profiles{
+    margin-top: 20px;
+    justify-content: center;
+    display: flex;
+}
+.list-profiles .link-profile{
+    text-decoration: none;
+    color: #808080;
+    font-size: 18px;
+}
+.list-profiles .link-profile:hover img{
+    border: solid 4px #FFF;
+}
+.list-profiles .link-profile:hover{
+    color: #FFF;
+}
+.list-profiles .profile{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.list-profiles .profile img{
+    border: solid 4px #333;
+    width: 150px;
+    height: 100%;
+}
+.list-profiles .profile .name-user{
+    margin-top: 20px;
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./css/Auth.css">
+    <title>Netflix</title>
+</head>
+
+<body>
+    <div class="top">
+        <a href="#"><img class="image-logo" src="./assets/logo.png" alt=""></a>
+    </div>
+    <div class="content">
+        <form class="form-login" id="form_login" method="post">
+            <div class="title">
+                <h1>Entrar</h1>
+            </div>
+            <div class="content-input">
+                <input autocomplete="off" class="input" type="email" name="email" id="email" placeholder="Email">
+                <span class="textError" id="errorEmail"></span>
+            </div>
+            <div class="content-input">
+                <input autocomplete="off" class="input" type="password" name="password" id="password"
+                    placeholder="Senha">
+                <span class="textError" id="errorPassword"></span>
+            </div>
+            <div class="content-button">
+                <button type="submit" class="button">Entrar</button>
+            </div>
+        </form>
+    </div>
+    <script src="js/Auth.js"></script>
+</body>
+
+</html>
