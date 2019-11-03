@@ -1,9 +1,5 @@
-*{
-    margin: 0;
-}
 body{
     background-color: #141414;
-    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .top-navigation{
     display: flex;
@@ -153,10 +149,10 @@ body{
 .step-2 .information-restriction-launch .restricted .age{
     margin-left: 15px;
     padding: 5px;
-    background: #F00;
+    background: gold;
     font-weight: bold;
     font-size: 16px;
-    color: #FFF;
+    color: #000;
 }
 .logo-launch{
     width: 400px;

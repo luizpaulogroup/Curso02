@@ -1,9 +1,5 @@
-*{
-    margin: 0;
-}
 body{
     background-color: #141414;
-    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .top{
     display: flex;

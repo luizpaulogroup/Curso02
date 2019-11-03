@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased !important;
+}
