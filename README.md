@@ -1,7 +1,24 @@
-# Curso02
-Desenvolvido ao longo do curso, página de login, acesso as contas e home com listagem de séries.
+<h1 align="center">Cloning the Spotify interface</h1>
 
-Realizando autenticação salvando dados no localStorage com JavaScript.
-Estilização do site com CSS
-Efeitos com CSS, (tais como :hover, -webkit-transform)
-Estruturando site baseando-se na Netflix
+<h1 align="center">
+    <img alt="React logo" width="70px" height="50px" src="https://github.com/luizpaulogroup/react-native-spotify/blob/master/src/Gif/react.png" />
+    <img alt="React logo" width="40px" height="40px" src="https://github.com/luizpaulogroup/react-native-spotify/blob/master/src/Gif/spotify.png" />
+    <br>
+    Spotify React Native
+</h1>
+
+<p align="center">
+  <a href="#pencil-What-was-passed-on">Functionalities</a>
+</p>
+
+## :pencil: What was passed on
+
+- Developed throughout the course, login page, access to accounts and home with series listing.
+- Performing authentication by saving data in localStorage with JavaScript.
+- Website styling with CSS
+- CSS effects, (such as: hover, -webkit-transform)
+- Structuring site based on Netflix
+
+---
+
+Made with ♥ by Luiz Paulo Gonçalves :wave: [Get in touch!](https://www.linkedin.com/in/luiz-paulo/)
