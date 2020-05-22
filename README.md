@@ -1,7 +1,7 @@
 <h1 align="center">Cloning the Netflix interface</h1>
 
 <h1 align="center">
-    <img alt="React logo" width="60px" height="40px" src="https://github.com/luizpaulogroup/html-netflix/blob/master/assets/netflix.png" />
+    <img alt="React logo" width="50px" height="40px" src="https://github.com/luizpaulogroup/html-netflix/blob/master/assets/netflix.png" />
     <br>
     Netflix HTML/CSS/JavaScript
 </h1>
