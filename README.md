@@ -4,7 +4,7 @@
     <img alt="React logo" width="70px" height="50px" src="https://github.com/luizpaulogroup/react-native-spotify/blob/master/src/Gif/react.png" />
     <img alt="React logo" width="40px" height="40px" src="https://github.com/luizpaulogroup/react-native-spotify/blob/master/src/Gif/spotify.png" />
     <br>
-    Spotify React Native
+    Netflix HTML/CSS/JavaScript
 </h1>
 
 <p align="center">
