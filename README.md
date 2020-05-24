@@ -7,8 +7,15 @@
 </h1>
 
 <p align="center">
-  <a href="#pencil-What-was-passed-on">Functionalities</a>
+  <a href="#pencil-What-was-passed-on">Functionalities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>
 </p>
+
+## :rocket: Technologies
+
+This project was developed with the technologies:
+
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## :pencil: What was passed on
 
